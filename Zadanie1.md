@@ -30,7 +30,7 @@ print("Hello World!");
 
 ```
 - При выполнении задания возникла проблема с "не появляющейся кнопкой Run" для программы, но её удалось решить, проблема была в неправельном расширении создоваемого файла.
-[Скриншот](https://github.com/TalankinIgor/AiGamedev/blob/main/Zadanie1_1.png)
+- [Скриншот](https://github.com/TalankinIgor/AiGamedev/blob/main/Zadanie1_1.png)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
@@ -54,8 +54,9 @@ public class NewBehaviourScript : MonoBehaviour
 }
 
 ```
-[Скриншот](https://github.com/TalankinIgor/AiGamedev/blob/main/Zadanie1_2.png)
+
 - После применяем файл к объекту и запускаем проект, видим что консоль выводит: hello world
+- [Скриншот](https://github.com/TalankinIgor/AiGamedev/blob/main/Zadanie1_2.png)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
