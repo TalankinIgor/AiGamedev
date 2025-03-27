@@ -29,14 +29,15 @@
 print("Hello World!");
 
 ```
+- При выполнении задания возникла проблема с "не появляющейся кнопкой Run" для программы, но её удалось решить, проблема была в неправельном расширении создоваемого файла.
 - Скриншот можно посмотреть в файле Zadanie1_1
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
 
-- После установки и настройки Unity и Unity Hub, создаём новый проект, в проекте создаём файл с таким кодом:
+- После установки и настройки Unity и Unity Hub, создаём новый проект, создаём скрипт и подкрепляем к, например, камере. Код:
 
-```с#
+```сs
 
 using System.Collections;
 using System.Collections.Generic;
@@ -44,14 +45,14 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    // При старте вызывается функция 1 раз
+    void Start()  
     {
         print("hello world");
     }
 
 }
-
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 ```
 
 - После применяем файл к объекту и запускаем проект, видим что консоль выводит: hello world
