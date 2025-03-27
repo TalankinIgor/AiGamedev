@@ -52,8 +52,9 @@ public class NewBehaviourScript : MonoBehaviour
     }
 
 }
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 ```
+[a link](https://github.com/TalankinIgor/AiGamedev/blob/main/Zadanie1_2.png)
 
 - После применяем файл к объекту и запускаем проект, видим что консоль выводит: hello world
 - Скриншот можно посмотреть в файле Zadanie1_2
